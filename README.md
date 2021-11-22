@@ -71,6 +71,5 @@ FROM PLAYER
 ORDER BY WEIGHT ASC;
 ```
 # ERD
-```
+![Oracle SQL Developer _ Relational_1 (제목 없음_1) 2021-11-21 오후 7_54_01 (2)](https://user-images.githubusercontent.com/83123393/142845745-52330280-9610-42aa-8e06-29ba548eeebe.png)
 
-```
