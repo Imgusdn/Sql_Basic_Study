@@ -70,3 +70,7 @@ SELECT *
 FROM PLAYER
 ORDER BY WEIGHT ASC;
 ```
+# ERD
+```
+
+```
